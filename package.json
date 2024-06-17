@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mikeold-2008/data-processor-assessment-t-1/issues"
   },
-  "homepage": "https://github.com/mikeold-2008/data-processor-assessment-t-1#readme"
+  "homepage": "https://github.com/mikeold-2008/data-processor-assessment-t-1#readme",
+  "dependencies": {
+    "axios": "^1.7.2"
+  }
 }
